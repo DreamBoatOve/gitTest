@@ -1,0 +1,4 @@
+电化学扫描探针显微技术(Electrochemical Scanning Probe Microscopy, ECSPM)
+	对导体或绝缘体表面的微区成像，表征基底不同区域的形貌或电化学性质
+电化学扫描隧道显微技术(Electrochemical Scanning Tunneling Microscopy, ECSTM)
+	对吸附在电机表面的单个分子成像
