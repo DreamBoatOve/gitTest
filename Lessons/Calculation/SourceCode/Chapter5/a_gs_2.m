@@ -1,8 +1,8 @@
-function a_gs()
-%This slice of codes responds to the 5-1 (1)problem.
+function a_gs_2()
+%This slice of codes responds to the 5-1 (2)problem.
 %Gauss-Seidel method for test
-A = [12.3,-2,-1,3.4,-3.7;1.4,9,-3,2.4,2.7;2.1,1,8,2.6,5.8;3.5,-2.1,1,13,4.6;2.5,-1,-2,5.3,14.8];
-b = [4.8,2.3,2.5,3.6,2.2]';
+A = [13.3,-4,-1,3.5,-3.8;3.4,9,-3,4.4,2.3;4.1,1,7,2.7,5.9;2.5,-2.4,1,13,5.6;1.5,-1,-3,4.3,14.9];
+b = [5.8,4.3,2.6,3.8,4.2]';
 len = length(b);
 D = eye(len);
 D1 = eye(len);
