@@ -5,3 +5,11 @@ dianhuaxue2016@163.com
 dianhuaxue2018
 作业邮箱
 dianhuaxue_task@163.com
+
+第三周：
+	IR降
+	气体扩散电极(GDS)
+	修饰电极（嵌电位沉积，UPD）
+		Pt电极上镀Pb防CO毒化
+			可直接将Pt电极在火焰上加热至白热状态去除吸附的CO
+			
