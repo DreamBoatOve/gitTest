@@ -1,4 +1,40 @@
 ---------------------------------------------------------------------------------------------
+Highly ordered copper doped TiO2 nanotube arrays(CuTiO2NTs) thin-film
+掺杂二氧化钛的高度有序铜纳米管阵列(CuTiO2NTs)薄膜
+	were prepared in 
+	准备
+		anaqueous solution containing 
+		包含有。。。的水溶液
+			NH4F and different concentrations of copper nitrate 
+			氟化氨和不同浓度的硝酸铜溶液
+				via the electrochemical oxidation of titanium substrates.
+				通过钛基的电化学氧化
+通过钛基的电化学氧化在含有氟化氨和不同浓度的硝酸铜水溶液中制备掺杂二氧化钛的高度有序铜纳米管阵列(CuTiO2NTs)薄膜
+---------------------------------------------------------------------------------------------
+The resulting nanotubes were characterized by FE-SEM, XRD,XPS and EDX.
+生成的纳米管用FE-SEM，XRD，XPS和EDX技术表征。
+---------------------------------------------------------------------------------------------
+The CuTiO2NTs showed a tube diameter of 40–90 nm and wall thickness of 20–30 nm.
+纳米管管径40-90nm，管壁壁厚20-30nm。
+---------------------------------------------------------------------------------------------
+Diffuse reflectance spectra showed a shift toward longer wave length srelative to pure TiO2 nanotubes (TiO2NTs). 
+---------------------------------------------------------------------------------------------
+The visible light photo-catalytic activity of the CuTiO2NTs electrodes was evaluated by the removal of methylene blue(MB) dye and the production of hydrogen.
+---------------------------------------------------------------------------------------------
+The results showed that CuTiO2NTs samples exhibited better photo-catalytic activity than the TiO2NTs.
+---------------------------------------------------------------------------------------------
+ This work demonstrated a feasible and simple anodization method to fabricate an effective,reproducible,and inexpensive visible-light-driven 
+ photo-catalyst for hydrogen evolution and environmental applications.
+---------------------------------------------------------------------------------------------
+Highly orderedcopperdopedTiO2 nanotube arrays(CuTiO2NTs) thin-film werepreparedinanaqueoussolutioncontainingNH4F and
+different concentrationsofcoppernitrateviatheelectrochemicaloxidationoftitaniumsubstrates.Theresultingnanotubeswerecharacterized by
+FE-SEM, XRD,XPSandEDX.TheCuTiO2NTs showedatubediameterof40–90 nmandwallthicknessof20–30 nm.Diffusereflectance
+spectra showedashifttowardlongerwavelengthsrelativetopureTiO2 nanotubes (TiO2NTs). Thevisiblelightphoto-catalyticactivityofthe
+CuTiO2NTs electrodeswasevaluatedbytheremovalofmethyleneblue(MB)dyeandtheproductionofhydrogen.Theresultsshowedthat
+CuTiO2NTs samplesexhibitedbetterphoto-catalyticactivitythantheTiO2NTs. Thisworkdemonstratedafeasibleandsimpleanodization
+method tofabricateaneffective,reproducible,andinexpensivevisible-light-drivenphoto-catalystforhydrogenevolutionandenvironmental
+applications.
+---------------------------------------------------------------------------------------------
 2
 ---------------------------------------------------------------------------------------------
 如果在热力过程中系统所经历的每一个状态都无限地接近平衡态，这种过程称为准平衡过程，又称为准静态过程。
