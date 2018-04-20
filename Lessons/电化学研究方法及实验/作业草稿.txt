@@ -1,4 +1,57 @@
 ---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+引言
+	specific surface area		比表面积
+	在半导体氧化物中，二氧化钛应为其在生物和化学惰性、成本效率及空穴的强氧化性一直被是为最广泛应用的环境光催化材料。
+	通常，二氧化钛所具有的较大的比表面积能提升其光催化性能，因此，有很多人尝试获取具备较大比表面积的，以二氧化钛为基底的纳米结构材料。
+	纳米结构的二氧化钛可被用于危险化学品的光催化降解、材料表面自清洁、太阳能转换、气体传感器以及氢气的存储等诸多用途。
+	一维结构的二氧化钛，尤其是二氧化钛纳米管，因为其卓越的光催化和光电效应而受到广泛的关注。
+	二氧化钛纳米管可以通过多种方式进行合成，包括纳米多孔氧化铝模板法、钛极氧化法等。
+	在这些这杯方法中，钛材极板氧化法是有序二氧化钛纳米管相对简单的制造工艺。
+	二氧化钛通过吸收波长低于387nm的紫外线后可以生成电子-空穴对，电子-空穴对分别能推动还原和氧化反应的进行。
+	然而，电子-空穴对的快速复合会降低其催化效率。
+	所以，改进光催工艺效率的关键所在是确保将电子、空穴在二者复合之前转移至半导体粒子表面。
+	因为电子跃迁的激活对于紫外线的要求限制了阳光和廉价的自然光的使用。
+	为了改进光催化的效率和拓宽二氧化钛纳米管对可见光谱响应的频率范围，人们进行了很多的尝试，比如，掺杂Pt、Pd、Ag等金属离子。
+	掺杂的金属通过减少电子和空穴的复合或者降低能带来提升光催化效率。
+	有人通过掺杂金属离子如，Au和Pt，成功的改进了二氧化钛的活度，但是掺杂的金属较为贵重。
+	本文中掺杂的金属是相对富裕和廉价的铜。
+	指导目前都很少有关于二氧化钛掺杂铜来提升光催化性能的研究。
+	在本文的研究中，实验人员在氟化氨和硝酸铜溶液中单步氧化钛基极板制备掺杂铜的二氧化钛。
+	制得的样品通过SEM、EDS、XPS、XRD测试技术进行形貌和结构的表征。
+	样品的光学性能通过UV-vis漫反射谱进行测量。
+	样品在可见光下的活度通过亚甲蓝染料的消失和氢气的生成进行测评。
+实验
+	化学药品和试剂
+	制备掺杂二氧化钛的铜纳米管阵列
+	表征
+	光催化活度和生成氢气的测量
+结果和讨论
+总结
+---------------------------------------------------------------------------------------------
+CERAMICS INTERNATIONAL
+Mohamad Mohsen Momenin, Yousef Ghayeb, Zohre Ghonchegi
+---------------------------------------------------------------------------------------------
+Title：
+	Fabrication and characterization 
+	制造与表征
+		of copper 
+		铜
+			doped TiO2 nanotube arrays 
+			掺杂二氧化钛的纳米管阵列
+				by in situ electrochemical method 
+				通过原位电化学技术
+					as efficient visible-light photocatalyst
+					有效的可见光光催化剂
+通过原位电化学技术进行制造与表征可作为有效的可见光光催化剂的掺杂二氧化钛的铜纳米管阵列
+可作为有效的可见光光催化剂的掺杂二氧化钛的铜纳米管阵列通过原位电化学技术进行制造与表征
+掺杂二氧化钛的铜纳米管阵列，可作为有效的可见光光催化剂，通过原位电化学技术进行制造与表征
+通过原位电化学技术对可作为有效的可见光光催化剂的掺杂二氧化钛的铜纳米管阵列进行制造与表征
+通过原位电化学技术对有效可见光光催化剂，掺杂二氧化钛的铜纳米管阵列，进行制造与表征
+---------------------------------------------------------------------------------------------
 Highly ordered copper doped TiO2 nanotube arrays(CuTiO2NTs) thin-film
 掺杂二氧化钛的高度有序铜纳米管阵列(CuTiO2NTs)薄膜
 	were prepared in 
@@ -9,7 +62,7 @@ Highly ordered copper doped TiO2 nanotube arrays(CuTiO2NTs) thin-film
 			氟化氨和不同浓度的硝酸铜溶液
 				via the electrochemical oxidation of titanium substrates.
 				通过钛基的电化学氧化
-通过钛基的电化学氧化在含有氟化氨和不同浓度的硝酸铜水溶液中制备掺杂二氧化钛的高度有序铜纳米管阵列(CuTiO2NTs)薄膜
+通过钛基的电化学氧化在含有氟化氨和不同浓度的硝酸铜水溶液中制备掺杂二氧化钛的高度有序铜纳米管阵列(CuTiO2NTs)薄膜。
 ---------------------------------------------------------------------------------------------
 The resulting nanotubes were characterized by FE-SEM, XRD,XPS and EDX.
 生成的纳米管用FE-SEM，XRD，XPS和EDX技术表征。
@@ -17,14 +70,59 @@ The resulting nanotubes were characterized by FE-SEM, XRD,XPS and EDX.
 The CuTiO2NTs showed a tube diameter of 40–90 nm and wall thickness of 20–30 nm.
 纳米管管径40-90nm，管壁壁厚20-30nm。
 ---------------------------------------------------------------------------------------------
-Diffuse reflectance spectra showed a shift toward longer wave length srelative to pure TiO2 nanotubes (TiO2NTs). 
+Diffuse reflectance spectra 
+漫反射光谱
+	showed 
+	展示
+		a shift 
+		偏移
+			toward longer wavelengths 
+			朝向更长波长
+				relative to
+				相对于
+					pure TiO2 nanotubes (TiO2NTs). 
+					纯二氧化钛纳米管
+漫反射光谱显示，相对于纯二氧化钛纳米管的反射光谱，新的反射光谱更偏向于波长更长的一侧。
 ---------------------------------------------------------------------------------------------
-The visible light photo-catalytic activity of the CuTiO2NTs electrodes was evaluated by the removal of methylene blue(MB) dye and the production of hydrogen.
+The visible light photo-catalytic activity
+可见光催化活性
+	of the CuTiO2NTs electrodes 
+	CuTiO2NTs电极的
+		was evaluated by 
+		由。。。测评
+			the removal of methylene blue(MB) dye 
+			亚甲蓝染料的消失（去除）
+				and 
+					the production of hydrogen.
+					氢气的生成
+CuTiO2NTs电极的可见光催化活性由亚甲蓝染料的消失和氢气的生成进行测评。
 ---------------------------------------------------------------------------------------------
-The results showed that CuTiO2NTs samples exhibited better photo-catalytic activity than the TiO2NTs.
+The results 
+结果
+	showed that 
+	显示
+		CuTiO2NTs samples 
+		CuTiO2NTs样品
+			exhibited better photo-catalytic activity 
+			表现出更佳的光催化活性
+				than 
+					the TiO2NTs.
+结果显示CuTiO2NTs样品比TiO2NTs样品表现出更佳的光催化活性。
 ---------------------------------------------------------------------------------------------
- This work demonstrated a feasible and simple anodization method to fabricate an effective,reproducible,and inexpensive visible-light-driven 
- photo-catalyst for hydrogen evolution and environmental applications.
+ This work 
+ 这项工作
+	demonstrated
+	展示/说明/显示
+		a feasible and simple anodization method 
+		一种简单易行的阳极氧化方法
+			to fabricate 
+			生产/制造
+				an effective, reproducible, and inexpensive visible-light-driven photo-catalyst 
+				一种有效、可再生、廉价的可见光驱动的光催化剂
+					for hydrogen evolution and environmental applications.
+					析氢/制氢和环境应用
+这项工作介绍了一种可用于制氢和环境应用的、有效的、可再生的、廉价的可见光驱动的光催化剂的
+这项工作介绍一种简单易行的、制造光催化剂的阳极氧化方法，该催化剂是一种有效、可再生、廉价的可见光驱动的光催化剂，可用于制氢和环境应用。
 ---------------------------------------------------------------------------------------------
 Highly orderedcopperdopedTiO2 nanotube arrays(CuTiO2NTs) thin-film werepreparedinanaqueoussolutioncontainingNH4F and
 different concentrationsofcoppernitrateviatheelectrochemicaloxidationoftitaniumsubstrates.Theresultingnanotubeswerecharacterized by
