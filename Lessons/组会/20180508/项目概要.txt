@@ -1,0 +1,45 @@
+实验数据处理流程相似
+	不同点：
+		XRD实验X射线的入射角15°，所得实验数据包含基底材料信息，为获取试验样品的XRD曲线，需将基底的XRD曲线扣除。
+		冰冰：
+			每行选择一个除样品外的一个点的XRD曲线，作为该行的基底的XRD
+		Mine：
+			每行选择一个除样品外的所有点的XRD曲线的平均值，作为该行的基底的XRD
+
+XRD寻峰、合并峰
+	根据曲线极值特性找到曲线的所有极值（极大/小值）
+	筛选出所有极大值，并计算出峰值与左侧谷底的差值h
+	过滤掉h<50的峰，若所剩峰的数量大于20，h += 0.001，重新筛选，直至单根曲线的峰的数量为20
+	最终区间长度为0.045（冰冰：0.5）
+	
+使用PCA进行数据降维，保留95%的信息
+
+聚类
+	选择层次聚类的依据：
+		From these qualitative and quantitative analyses, we conclude that the [cosine] and [Pearson] metrics should be the measures of choice in cluster analysis of XRD patterns due to their high accuracy and low computational cost. 
+		Furthermore, when prior knowledge of the maximum peak shift magnitude is available, the NC-DTW should be selected if adequate time exists for the increased computational cost.
+	冰冰：
+		层次聚类
+	Mine：
+		层次聚类（效果很不理想）
+		改进：
+			层次聚类+高斯分布（有明显改善）
+
+问题的难度不同：
+	因为所选三元体系不同（冰冰：Fe-Co-NI，4个相区；Mine：Fe-Cr-Ni，11个相区），对应的相区数量不同。
+
+提纲
+	引言
+		此项工作的意义
+			传统相图的构建方式耗费大量的人、财、时间，高通量的实验方式短时间内产生大量的实验数据给使用传统分析手段的科研人员带来较为沉重的工作负担。
+		类似工作的目前进展
+			介绍引用文献中其他人的工作：
+				nature的
+				冰冰的
+		提出自身的创新点
+	实验部分
+		简述实验数据的整理过程
+		根据冰冰的方法（层次聚类）进行聚类。结果不理想，提出自身的优化（层次聚类+高斯分布）
+		高斯分布的标准差无法直接确定，需要手动识别部分XRD曲线以划分出粗略的相区边界来确定高斯分布的标准差
+		改进后的分类结果与真实数据（ASM数据库）仍有部分偏差，仍需要人工进行适度的干预。
+	
