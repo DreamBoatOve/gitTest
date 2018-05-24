@@ -1,0 +1,22 @@
+基于组合芯片的方法快速构建Fe-Cr-Ni成分相图
+国家材料服役安全中心 赵朝阳 b20170427
+Q1：为什么要做这件事？
+固态氧化物燃料电池
+铬基陶瓷材料
+Fe-Cr基合金
+掺Ni
+
+密闭熔炼三种纯金属
+750℃热处理（720h）
+金相分析
+	光学显微镜
+	扫描电镜（XRD，EPMA）
+衍射能谱
+	XRD(JCPDS)
+		Joint Committee of Powder Diffraction Standard  database
+		相
+		显微结构
+		成分数据
+		衍射能谱
+
+PDF卡片是已知的，将单根曲线进行神经网络训练

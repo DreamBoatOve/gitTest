@@ -5,7 +5,11 @@
 			每行选择一个除样品外的一个点的XRD曲线，作为该行的基底的XRD
 		Mine：
 			每行选择一个除样品外的所有点的XRD曲线的平均值，作为该行的基底的XRD
-
+XRF的问题
+	标准样品的XRF数据是否可用？
+	拟合方法
+		*最小二乘法
+		遗传算法
 XRD寻峰、合并峰
 	根据曲线极值特性找到曲线的所有极值（极大/小值）
 	筛选出所有极大值，并计算出峰值与左侧谷底的差值h
@@ -15,7 +19,7 @@ XRD寻峰、合并峰
 使用PCA进行数据降维，保留95%的信息
 
 聚类
-	选择层次聚类的依据：
+	选择层次聚类/Pearson的依据：
 		From these qualitative and quantitative analyses, we conclude that the [cosine] and [Pearson] metrics should be the measures of choice in cluster analysis of XRD patterns due to their high accuracy and low computational cost. 
 		Furthermore, when prior knowledge of the maximum peak shift magnitude is available, the NC-DTW should be selected if adequate time exists for the increased computational cost.
 	冰冰：
@@ -28,6 +32,10 @@ XRD寻峰、合并峰
 问题的难度不同：
 	因为所选三元体系不同（冰冰：Fe-Co-NI，4个相区；Mine：Fe-Cr-Ni，11个相区），对应的相区数量不同。
 
+接下来的工作：	
+	确定分类的正确率
+	为4--->11的难度提升找个说法
+	确定sigma的值
 提纲
 	引言
 		此项工作的意义
