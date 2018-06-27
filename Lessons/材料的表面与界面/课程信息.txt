@@ -1,7 +1,12 @@
 ﻿总结
-	理论进展/技术手段/材料体系
+	材料表面与界面 + 理论进展/技术手段/材料体系
+	solid surface, interface and thin films + progress
 要求：
 	含有历史脉络、国内外研究、应用情况
+
+	简介
+	发展历程
+	应用
 电子版发送至
 	pangxl@master.ustb.edu.cn
 命名
