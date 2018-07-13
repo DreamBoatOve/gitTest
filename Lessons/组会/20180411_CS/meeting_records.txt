@@ -1,8 +1,0 @@
-Combine Static and Dynamic storge management for data (Abandoned)
-LS-DNYA
-ActionView
-在无聊的讲模板问题，从来都不讲实际问题
-讲一堆垃圾东西，毕竟这是人家的主场，要克制，要低调。
-时态
-	前人工作	过去时
-	本人工作	现在时
