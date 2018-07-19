@@ -1,3 +1,16 @@
+-----------------------------------------------------------
+Xia等人利用神经网络根据成分预测镁合金的腐蚀速率和硬度
+Xia X, Nie J F, Davies C H J, et al. An artificial neural network for predicting corrosion rate and hardness of magnesium alloys[J]. Materials & Design, 2016, 90:1034-1043.
+Urda等人利用神经网络预测不锈钢点腐状态
+Urda D, Luque R M, Jiménez M J, et al. A Constructive Neural Network to Predict Pitting Corrosion Status of Stainless Steel[C]// International Conference on Artificial Neural Networks: Advances in Computational Intelligence. Springer-Verlag, 2013:88-95.
+G Nakayama等人利用模型预测焊接不锈钢滤毒罐的应力腐蚀断裂
+Nakayama G, Sakakibara Y, Kouketsu T, et al. A Model to Predict Stress Corrosion Cracking of Welded Stainless Steel Canister[J]. 2017, 1(63-64):1-6.
+-----------------------------------------------------------
+利用机器学习构建材料成分-结构-性能关系模型
+利用多种神经网络预测碳钢的大气腐蚀
+通过层次聚类快速构建Fe-Cr-Ni成分相图
+利用深度强化学习建立焊接接头成分、硬度与腐蚀性能之间的关系模型
+-----------------------------------------------------------
 老师，咱们之前讲的自动识别图片中的组织，在确定实验条件（材料成分、热处理温度）的前提下实现组织（铁素体、奥氏体、马氏体）的识别是可行的。但是识别其晶体结构（如，001面，111面，010面）是不太现实的。例如，材料确定是铁素体后，其晶面方向仍可能有很多种。这个晶面方向还是要做实验来确定的。
 ---------------------------------
 利用机器学习构建材料成分-结构-性能关系模型
@@ -76,7 +89,7 @@ Integrated  Computational  Materials Engineering: A  Transformational Discipline
 	只取2、3两个板块：利用机器学习构建材料相图、预测材料腐蚀性能
 可行性：
 	主要是数据量的问题，数据量很小
-1、构建材料相图（通过材料组合芯片技术快速构建Fe-Cr-Ni成分相图）
+1、构建材料相图（通过层次聚类快速构建Fe-Cr-Ni成分相图）
 	目的：
 		利用层次聚类快速构建材料成分相图
 	选择方法：
