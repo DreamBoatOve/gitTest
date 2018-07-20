@@ -1,3 +1,49 @@
+1Holdren J P. Materials genome initiative for global competitiveness[J]. National Science and technology council OSTP. Washington, USA, 2011.
+2王海舟, 汪洪, 丁洪, 等. 高通量材料实验与表征[J].科技导报, 2015, 33(10): 31-49.WANG Hai-zhou, WANG Hong, DING Hong, et al. Highthroughput experimentation for materials genome[J].Science &Technology Review, 2015, 33(10): 31-49.
+3向勇, 闫宗楷, 朱焱麟,等. 材料基因组技术前沿进展[J]. 电子科技大学学报, 2016, 45(4):634-649.
+4MCCLUSKEY P J, VLASSAK J J. Glass transition andcrystallization of amorphous Ni-Ti-Zr thin films bycombinatorial nano-calorimetry[J]. Scripta Materialia, 2011,64(3): 264-267.MCCLUSKEY P J, VLASSAK J J. Combinatorialnanocalorimetry[J]. Journal of Materials Research, 2011,25(11): 2086-2100.
+5XIANG X D, SUN X, BRICENO G, et al. A combinatorial approach to materials discovery[J]. Science, 1995, 268(5218): 1738-1740.
+6COOPER J S, ZHANG G H, MCGINN P J. Plasmasputtering system for deposition of thin film combinatoriallibraries[J]. Review of Scientific Instruments, 2005, 76:062221
+7GAO C, DUEWAR F, XIANG X D. Quantitative microwave evanescent microscopy[J]. Applied Physics Letters, 1999, 75(19): 3005-300. 
+8VersaSCAN. Electrochemical scanning system[EB/OL]. [2016-01-28]. http://www.princetonappliedresearch.com/Our- roducts/Electrochemical-Scanning-System/index.aspx.
+9杨小渝, 任杰, 王娟,等. 基于材料基因组计划的计算和数据方法[J]. 科技导报, 2016, 34(24):62-67.
+10 Raccuglia P, Elbert K C, Adler P D F, et al. Machine-learning-assisted materials discovery using failed experiments[J]. Nature, 2016, 533(7601): 73.
+---------------------------------------------------------------------
+11Fischer C C, Tibbetts K J, Morgan D, et al. Predicting crystal structure by merging data mining with quantum mechanics[J]. Nature materials, 2006, 5(8): 641.
+12Hautier G, Jain A, Ong S P, et al. Phosphates as Lithium-Ion Battery Cathodes: An Evaluation Based on High-Throughput Ab Initio[C]//Lithium Battery Discussion Electrode Materials. 2011.
+13Saal J E, Kirklin S, Aykol M, et al. Materials design and discovery with high-throughput density functional theory: the open quantum materials database (OQMD)[J]. Jom, 2013, 65(11): 1501-1509.
+14Kirklin S, Meredig B, Wolverton C. High‐Throughput Computational Screening of New Li‐Ion Battery Anode Materials[J]. Advanced Energy Materials, 2013, 3(2): 252-262.
+15Saal J E, Wolverton C. Thermodynamic stability of Mg-based ternary long-period stacking ordered structures[J]. Acta Materialia, 2014, 68: 325-338.
+16Hu L H, Wang X J, Wong L H, et al. Combined first-principles calculation and neural-network correction approach for heat of formation[J]. The Journal of Chemical Physics, 2003, 119(22): 11501-11507.
+17Bligaard T, Jóhannesson G H, Ruban A V, et al. Pareto-optimal alloys[J]. Applied physics letters, 2003, 83(22): 4527-4529.
+18何华灿. 人工智能基础理论研究的重大进展--评钟义信的专著《高等人工智能原理》[J]. 智能系统学报, 2015(1):163-166.
+19杨淑莹, 张桦. 模式识别与智能计算:MATLAB技术实现.第3版[M]. 电子工业出版社, 2015.
+20高隽. 人工神经网络原理及仿真实例.第2版[M]. 机械工业出版社, 2007.
+---------------------------------------------------------------------
+21叶晨洲, 廖金周. 车辆牌照字符识别系统[J]. 计算机系统应用, 1999, 8(5):10-13.
+22JiaweiHan, MichelineKamber, JianPei,等. 数据挖掘:概念与技术[M]. 机械工业出版社, 2012.
+23汤效琴, 戴汝源. 数据挖掘中聚类分析的技术方法[J]. 微计算机信息, 2003(1):3-4.
+24唐勇智. 基于聚类的RBF-LBF串联神经网络的学习算法及其应用[D]. 江南大学, 2009.
+25Voorhees E M. Implementing agglomerative hierarchic clustering algorithms for use in document retrieval ☆[J]. Information Processing & Management, 1986, 22(6):465-476.
+26Guha S, Rastogi R, Shim K, et al. CURE : An Efficient Clustering Algorithm for Large Databases[C]// Elsevier Ltd, 1998:73-84.
+27Karypis G, Han E H, Kumar V. CHAMELEON A hierarchical clustering algorithm using dynamic modeling[J]. Computer, 2008, 32(8):68-75.
+28Ng R T, Han J. Efficient and Effective Clustering Methods for Spatial Data Mining[J]. In: Proceedings of the 20th international, 1994, 88(9):144--155.
+29Yoo Y K, Xue Q, Chu Y S, et al. Identification of amorphous phases in the Fe–Ni–Co ternary alloy system using continuous phase diagram material chips[J]. Intermetallics, 2006, 14(3):241-247.
+30Janghorban A, Pfetzing-Micklich J, Frenzel J, et al. Investigation of the Thin‐Film Phase Diagram of the Cr–Ni–Re System by High‐Throughput Experimentation[J]. Advanced Engineering Materials, 2014, 16(5):588-593.
+---------------------------------------------------------------------
+31Hui X, Zhao B, Wang Y, et al. Rapid Construction of Fe–Co–Ni Composition-Phase Map by Combinatorial Materials Chip Approach[J]. Acs Combinatorial Science, 2018.
+32Panchenko Y M, Marshakov A I. Prediction of First-Year Corrosion Losses of Carbon Steel and Zinc in Continental Regions.[J]. Materials, 2017, 10(4):422.
+33Institution B S. Corrosion of metals and alloys. Corrosivity of atmospheres. Guiding values for the corrosivity categories[J].
+34唐其环. 用GM(1 1)模型拟合大气腐蚀数据[J]. 腐蚀与防护, 1993(1).
+35Chico B, Fuente D D L, Díaz I, et al. Annual Atmospheric Corrosion of Carbon Steel Worldwide. An Integration of ISOCORRAG, ICP/UNECE and MICAT Databases[J]. Materials, 2017, 10(6).
+36Pintos S, Queipo N V, Rincón O T D, et al. Artificial neural network modeling of atmospheric corrosion in the MICAT project[J]. Corrosion Science, 2000, 42(1):35-52.
+37骆鸿, 魏丹, 董超芳,等. 金属腐蚀微区电化学研究进展(1)扫描电化学显微镜技术[J]. 腐蚀与防护, 2009, 30(7):437-441.
+38陈志林, 陈国强, 李军,等. 不锈钢钎焊接头电化学行为的研究[J]. 热加工工艺, 2008, 37(5):16-17.
+39Lee D J, Jung K H, Sung J H, et al. Pitting corrosion behavior on crack property in AISI 304L weld metals with varying Cr/Ni equivalent ratio[J]. Materials & Design, 2009, 30(8):3269-3273.
+40金维松, 郎宇平, 荣凡,等. EPR法评价奥氏体不锈钢晶间腐蚀敏感性的研究[J]. 中国腐蚀与防护学报, 2007, 27(1):54-59.
+---------------------------------------------------------------------
+41林晓云. 不锈钢焊接接头晶间腐蚀性能的控制[J]. 中国修船, 2007, 20(1):37-39.
+---------------------------------------------------------------------
 Yoo Y K, Xue Q, Chu Y S, et al. Identification of amorphous phases in the Fe–Ni–Co ternary alloy system using continuous phase diagram material chips[J]. Intermetallics, 2006, 14(3):241-247.
 Janghorban A, Pfetzing-Micklich J, Frenzel J, et al. Investigation of the Thin‐Film Phase Diagram of the Cr–Ni–Re System by High‐Throughput Experimentation[J]. Advanced Engineering Materials, 2014, 16(5):588-593.
 Hui X, Zhao B, Wang Y, et al. Rapid Construction of Fe–Co–Ni Composition-Phase Map by Combinatorial Materials Chip Approach[J]. Acs Combinatorial Science, 2018.
