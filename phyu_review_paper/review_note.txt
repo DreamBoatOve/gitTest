@@ -1,0 +1,156 @@
+-------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+聚类 重心法
+-------------------------------------------------------
+My purpose of this table is to let know the reader from one reference in which the authors chose what materials and it is used for where and which environment the experiment is carrying out to produce the required data for ANN...and which input variables are used to produce which output (that is one property of materials) by using which type of ANN.
+-------------------------------------------------
+Prediction of corrosion behavior using neural network as a data mining tool. Corrosion Science
+-------------------------------------------------
+2019/06/18
+meeting with Ove, phyu and Pro.Shi
+Task
+	Phyu
+		Certainfy the type of CNN, the dynamic/static ?
+		Replace non-uniform expressions after reciving the abbreviations from Ove
+		Make expression more concise!!!
+		delete table 3
+	Ove
+		Arrange abbreviations
+		Find and Download papers about Thermal/Tribology property
+		*Check the area types in the Big Table
+		*Point out the different expression of the same object
+note: * stands for the newly added tasks
+-------------------------------------------------
+2019/06/12
+meeting with phyu
+	Phyu recommand links about ANN
+		https://www.techopedia.com/definition/33267/single-layer-neural-network
+		https://medium.com/deeper-learning/glossary-of-deep-learning-bias-cf49d9c895e2
+		http://wwwold.ece.utep.edu/research/webfuzzy/docs/kk-thesis/kk-thesis-html/node15.html
+		https://en.wikipedia.org/wiki/Feedforward_neural_network
+Tasks
+	Phyu
+		Keep working on the writing of prediction work and modification of review
+		Give Ove a copy of refers in review
+		If u finish modification of review, give a new copy then
+	Ove
+		Keep training NNs
+-------------------------------------------------
+Questions
+	1-sequential training and batch training
+-------------------------------------------------
+3
+	phase1
+		materials related fields
+		materials failures might occur
+		predicting corrosion in different environments
+	phase2
+	3.1 
+		a corrosion
+-------------------------------------------------
+1-
+	In Section 2.2: 
+		i think that we should introduce neuron first and then the basic of NN
+2-
+	Table 2 (25 examples in total, where the others??): 
+		the content arranged in what order? or group by what?
+		The input like sulfur dioxide, chloride, time of witness can be replaced by certain expression SO2, Cl-, TOW, 
+		NN type can be replaced by certain mark
+			multilayer perceptron/backpropagation Neural Network -- > MLP
+			radial basis function neural network ---> RBF
+3-
+	Section 3
+		3.1 ANN for Materials Performance Prediction
+			(a)	Corrosion 
+				refer 6
+			(b)	Thermal Property
+				refer 1
+				too long for just one reference
+			(c)	Structural Property
+				refer 2
+				mention the importance of training dataset size in line 283-285
+				mention the importance of training dataset size in line 306-308
+			(d)	Electrochemical Property
+			(e)	Tribological Property
+		3.2 ANN for Materials Design
+4
+	Use abbreviation for the long name like BP neural network
+-------------------------------------------------
+金属材料性能
+	工艺性能
+		铸造性
+		锻造性
+		深冲性
+		弯曲性
+		。。。
+	使用性能
+		力学性能
+		*抗腐蚀性能（化学性能）
+		电磁性能
+		*耐热性能
+		。。。
+-------------------------------------------------
+Significance of Artificial Neural Network Analytical Models in Materials Performance Prediction
+-------------------------------------------------
+papers about thermal/structure/tribological
+-------------------------------------------------
+Tribological behavior prediction of friction materials for ultrasonic motors using Monte Carlo‐based artificial neural network
+Structural Material Property Tailoring Using Deep Neural Networks
+neural networks for structure
+Development of a Neural Network Simulator for Studying the Constitutive Behavior of Structural Composite Materials
+Artificial Neural Networks as a Novel Modeling Technique in Tribology
+-------------------------------------------------
+Artificial Neural Networks-A New Paradigm for Thermal Science and Engineering
+Neural network applications in heat and mass transfer operations in food processing
+Using artificial neural network to predict thermal conductivity of ethylene glycol with alumina nanoparticle
+Experiment and Artificial Neural Network Prediction of Thermal Conductivity for Alumina-Water Nanofluids
+-------------------------------------------------
+Corrosion is the deterioration and loss of a material and its critical properties due to chemical, electrochemical and other reactions of the exposed material surface with the surrounding environment.
