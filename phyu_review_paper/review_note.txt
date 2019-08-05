@@ -36,13 +36,140 @@
 -------------------------------------------------------
 -------------------------------------------------------
 -------------------------------------------------------
+材料服役环境/条件
+material service condition
+material service term
+“material service condition” “material service term”
+针对核电、能源、化工、海洋工程、航空航天等领域材料服役特点，开展材料在高温高压水、海水、酸、碱、液态金属等环境下的腐蚀、应力腐蚀、腐蚀疲劳、微动磨损试验等
+
+核电、能源、化工、海洋工程、航空航天
+高温高压水、海水、酸、碱、液态金属
+-------------------------------------------------------
+1 In your appendix: all your full expression should be start with the capital letter
+	Exp:
+		Wrong:	"Al				aluminum"
+		Right:	"Al				Aluminum"
+-------------------------------------------------------
+a 				acceleration of radial vibration
+Ag				Silver
+Al				aluminum
+B 				binder
+B3(OH)3			boron content
+Bi				Bismuth
+BSW 				Basic Saturated Water
+C 				carbon
+C/CA 				cement-coarse aggregate ratio
+Cd 				current density
+C/FA 				cement-fine aggregate ratio
+CEIIW 				carbon equivalent 
+CEPcm				carbon equivalent based on the Ito-Bessyo equation
+CGR 				crack growth rate 
+Cl-				chloride ions concentration
+Cr 				chromium
+CrMoNiCu	the sum of chromium, molybdenum, nickel and copper concentrations  
+Csic 				SiC particle concentration
+Cu 				copper
+d (or) t				depth of cut
+DC				depth of carbonation
+Dmax 				maximum pit depth
+E 				potential 
+Ecorr				corrosion potential
+ECP 				principal environmental factor 
+El				elongation
+f (or) s				feed rate
+FCGR 				fatigue crack growth rate
+Fe				Iron
+H2SO4				sulfuric acid
+HCl 				hydrochloric acid
+HP 				high pressure
+icorr				corrosion current density
+In				Indium
+KI 				principal mechanical factor 
+Li 				lithium content
+MK				metakaolin addition
+Mn 				magnesium
+Mo 				molybdenum
+N 				nitrogen	
+NaCl				chloride ion
+Nb				niobium
+NbV 				the sum of niobium and vanadium concentrations 
+Ni 				nickel
+P				applied stress
+P				Phosphorus 
+PCO2				pressure of purged CO2
+PO2				relative pressure of oxygen
+PTFE				Polytetrafluoroethylene
+Q 				charge amount 
+|∆R| 				planar anisotropy 
+Ra 				surface roughness
+Re				Rhenium
+RH				relative humidity
+Rp				polarization resistance
+S				strain
+S				Sulfur 
+Sb				antimony
+SCC				stress corrosion cracking
+Si				Silicon
+SIF 				stress intensity factor
+SL				stress level of concrete
+Sn				Tin
+SO2				sulphur dioxide
+SP				superplasticizer 
+SR				strain rate
+T				temperature
+TA 				testing age
+Ti				titanium
+TiO2				titanium dioxide
+TOW				time of wetness
+Up 				ultrasonic power
+UTS 				ultimate tensile strength
+UV				ultrasonic velocity
+V 				vanadium
+v 				cutting speed
+VTiNb				 the sum of niobium, vanadium and titanium concentrations
+W				sample weight change
+w				frequency
+W/B				water-to-binder ratio
+W/C				water-cement ratio
+WV				wind velocity
+YS 				yield strength 
+Zr and Zi 			real and imaginary impedances
+-------------------------------------------------------
+nn_classification_table_template
+Neural network predictive models
+Neural_network_predictive_models
+table2_Neural_network_predictive_models
+-------------------------------------------------------
+notes:
+	1-The journal selection
+		Currently, pro.Shi is looking for the approriate journal to submit. After the determination of the target journal, Phyu has to modify all the references mark like [12], [13] according to the requirment of the journal.
+	2-Abbreviation of terminology
+		2.1-if a terminology related with material science appears for the first time, you should give the full name of the terminology and its abbreviation, like time of exposure (TOE). When the terminology appears again, you just use its abbreviation.
+		2.2-Currently, i just check the abbreviations you asked. And i can check the other left abbreviations in next step if u need me to.
+	3-The classification of material properties (according to the usablity)
+		Physical Property
+			Thermal
+		Chemistry Property
+			Corrosion
+		Mechanical Property
+			Structural
+			Tribological
+	4- Add a table in Section 2.4 to replace your current Fig 3 to function as the classifications of all kinds of NN
+		u can start to fill the table
+	4-About the large table 2 used in the paper
+		4.1- Apparently, each row need much more space, if u turn the layout of the page containing the table 2 into lateral, the table will looks much better. At present, it is painful just looking at it.
+		to be honest, when i look into the table 2 and then find out it is impossible to modify them in one/two days. i need to find the paper and check the content. it require much more time. maybe, i will deliver my modification in a week.
+		4.2- I highly recommand u prepare your a table in an excel, once you are certain about your content, then copy or insert the table into your paper
+-------------------------------------------------------
+Predicted/ relevant Property
 -------------------------------------------------------
 -------------------------------------------------------
+老师，麻烦您看一下Phyu的review中的致谢的单位对不对？
+We also thank the financial support from the Ministry of Science and Technology, China for the national key research and development plan (2017YFB0701904). And the authors are also grateful for support from the 111 Project (Grant No. B12012) in China for promoting international exchange. 
 -------------------------------------------------------
--------------------------------------------------------
--------------------------------------------------------
--------------------------------------------------------
--------------------------------------------------------
+缩写问题
+time of exposure		TOE
+solar radiation		SR
 -------------------------------------------------------
 材料性能分类
 	https://www.docin.com/p-2131564262.html
@@ -73,10 +200,6 @@ Instead, we are going to make a table
 ANN was established for predicting corrosion in different corrosive environments such as atmosphere [28], water [29], sea [23], high temperature [30], and so on. as well as forecasting materials performance as failure forms of fatigue [31], crack [20], pitting [32], creep [33], flow stress [34], wear [35], elasticity [36], toughness and hardness [37], hot deformation behavior [38] [1], yield strength [39], ultimate strength [40], elongation to fracture [22], etc. 
 
 ANN was established for forecasting materials performance as failure forms of fatigue [31], crack [20], pitting [32], creep [33], flow stress [34], wear [35], elasticity [36], toughness and hardness [37], hot deformation behavior [38] [1], yield strength [39], ultimate strength [40], elongation to fracture [22], etc. Exclusively for the prediction of the corrosion, corrosive environments in which the the applications based on ANN are applied can be specifically classified as atmosphere [28], water [29], sea [23], high temperature [30], and so on.
--------------------------------------------------------
-notes:
-	1-Currently, pro.Shi is looking for the approriate journal to submit. After the determination of the target journal, Phyu has to modify all the references mark like [12], [13] according to the requirment of the journal.
-
 -------------------------------------------------------
 聚类 重心法
 -------------------------------------------------------
