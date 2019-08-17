@@ -20,20 +20,72 @@
 -------------------------------------------------------
 -------------------------------------------------------
 -------------------------------------------------------
+71-
 -------------------------------------------------------
+The logic of this paragraph is very confusing. I assume your original intension is to express that your paper covers a lot of materials, multiple NNs, some hybird NNs, and a few input ranking methods. I suggest to put a summary sentence at the head of this paragraph and add few transition words to orderly connect each part.
 -------------------------------------------------------
+金属腐蚀还可按腐蚀环境分类，即分为化学介质腐蚀、大气介质腐蚀、海水介质腐蚀和土壤腐蚀等
+大气腐蚀
+海水腐蚀
+土壤腐蚀
+人体环境服饰
+
+corrosion of metal materials can be classified by many standards. According to corrosion environment, metal corrosion can be classified as atmosphere, sea water, soil, etc.
+
+atmosphere
+sea water
+soil
 -------------------------------------------------------
+I double checked the refers:
+37 22
+	atmosphere
+38
+	it is about the corrosion of concrete sewer, so it should belong to the soil
+39
+	the service environment does have high temperature (combustion, coal gasification, etc.). I believe that it still belongs to "atmosphere"
 -------------------------------------------------------
+It looks much better than the previous edition. But it still has some small flaws
 -------------------------------------------------------
+加一句：在哪些方面取得了比较好的效果，罗列一下，附近这几句现在的写法太泛泛了，没有实质内容
+
+
 -------------------------------------------------------
+Table 3. Neural network predictive models used in materials related problems
 -------------------------------------------------------
+Experimental  Condition, GOOD
+Process, NOT ACCURATE
+Method, NOT ACCURATE
+Data Sources for ANN, NO
+OTHER RECOMMANDATION:
+1-SERVICE CONDITIONS
 -------------------------------------------------------
+What is a proof load test?
+http://www.spartaengineering.com/what-is-a-proof-load-test-and-when-is-it-required/
 -------------------------------------------------------
+The proof load test is to stretch a stick util a fracture happens. The used force when the stick breaks is called ultimate (tensile) strengthen that is the purpose/goal. Literally, you have to keep adding force and wait for the break happens, which will take comparatively long time and energy. So, image a situation that we can just use 30%-50% of the ultimate (tensile) strengthen (known by theoretical calculation) to predict the ultimate (tensile) strengthen, then a lot of time and energy will be saved. I think this is the purpose of these two refers (35, 72)
 -------------------------------------------------------
+matrix crazing 基体开裂
 -------------------------------------------------------
+review 更改一下
+	35
+		Sasikumar, T., et al., Artificial Neural Network Prediction of Ultimate Strength of Unidirectional T-300/914 Tensile Specimens Using Acoustic Emission Response. Journal of Nondestructive Evaluation, 2008. 27(4): p. 127-133.
+	72
+		Rajendraboopathy, S., et al., Artificial neural network a tool for predicting failure strength of composite tensile coupons using acoustic emission technique. The International Journal of Advanced Manufacturing Technology, 2008. 44(3-4): p. 399-404.
 -------------------------------------------------------
+Low proof load prediction of fiber glass/epoxy resin I-beam using acoustic emission
+Low Proof Load Prediction of Ultimate Loads of Fiberglass_Epoxy Resin I-Beams Using Acoustic Emission
 -------------------------------------------------------
+I collect the sources of all our references, it may help.
 -------------------------------------------------------
+int J Adv manuf technol
+institute of materials, minerals and mining
+-------------------------------------------------------
+Hot Deformation Mechanisms in a Powder Metallurgy Nickel-Base Superalloy IN 625
+method of analysis and prediction for variable amplitude fatigue crack growth
+-------------------------------------------------------
+hydraulic descaling
+-------------------------------------------------------
+A novel analytical–artificial neural network model to improve efficiency of high pressure descaling nozzles in hot strip rolling of steels
 -------------------------------------------------------
 SL stress level of concrete
 W/C water-cement ratio
@@ -49,17 +101,33 @@ material service term
 核电、能源、化工、海洋工程、航空航天
 高温高压水、海水、酸、碱、液态金属
 -------------------------------------------------------
+turning in-process
+"turning in-process"
+"in-process turning"
+-------------------------------------------------------
+I just modify sheets "table 2" and "abbreviations"
 1 In your appendix: all your full expression should be start with the capital letter
 	Exp:
 		Wrong:	"Al				aluminum"
 		Right:	"Al				Aluminum"
 2 About the table 2
+	(from other reference) ???
+		"(from other reference) " appears a few times in the table, what is it means?
+	Col: "Applied Areas"
+		This column is the main reason that keeped holding me off, and i still can not find a firmed support about the classification of 'Applied Areas'. So, i just quickly the references and ur choices and then make the decision about what to fill into the blank.
+	Col: Experimental Environment
+		I agreed on most of ur choices
 	Col: Activation function
 		Warning: you basically enumerate all the possible activiation functions in ur table 1. So, the content in the col "Activation function" should be one of those functions. but in the references, i do find that they just use 'sigmoid' to represent their activiation function, but in ur table 1, u have  Logistic(sigmoidal) and Hypertangent(sigmoidal), which is confusing to chose
 	Col: Neural network model
 		Warning: there are some NN containing more than one hidden layers, So, i add an Option "DNN", standing for "Deep neural network"
-	Row 12:
-		
+	Row 12: 
+		This reference is still very confusing for me even after several times of reading, i leave it out for now and will check it later(marked it red)
+		One thing i am certain is that current content in row 12 is not appropriate. There multiple kinds of amplitude loading conditions, not just the "constant amplitude loading"
+	Row 22: 
+		It is so funny that u copy few imgs to fill into the blanks rather than type it.
+3 Abbreviations
+	I added some abbreviations that u missed (mark in blue)
 -------------------------------------------------------
 a 				acceleration of radial vibration
 Ag				Silver

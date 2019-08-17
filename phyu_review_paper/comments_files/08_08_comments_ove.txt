@@ -1,0 +1,25 @@
+I just modify sheets "table 2" and "abbreviations"
+-------------------------------------------------------
+1 In your appendix: all your full expression should be start with the capital letter
+	Exp:
+		Wrong:	"Al				aluminum"
+		Right:	"Al				Aluminum"
+2 About the table 2
+	(from other reference) ???
+		"(from other reference) " appears a few times in the table, what is it means?
+	Col: "Applied Areas"
+		This column is the main reason that keeped holding me off, and i still can not find a firmed support about the classification of 'Applied Areas'. So, i just quickly the references and ur choices and then make the decision about what to fill into the blank.
+	Col: Experimental Environment
+		I agreed on most of ur choices
+	Col: Activation function
+		Warning: you basically enumerate all the possible activiation functions in ur table 1. So, the content in the col "Activation function" should be one of those functions. but in the references, i do find that they just use 'sigmoid' to represent their activiation function, but in ur table 1, u have  Logistic(sigmoidal) and Hypertangent(sigmoidal), which is confusing to chose
+	Col: Neural network model
+		Warning: there are some NN containing more than one hidden layers, So, i add an Option "DNN", standing for "Deep neural network"
+	Row 12: 
+		This reference is still very confusing for me even after several times of reading, i leave it out for now and will check it later(marked it red)
+		One thing i am certain is that current content in row 12 is not appropriate. There multiple kinds of amplitude loading conditions, not just the "constant amplitude loading"
+	Row 22: 
+		It is so funny that u copy few imgs to fill into the blanks rather than type it.
+3 Abbreviations
+	I added some abbreviations that u missed (mark in blue)
+-------------------------------------------------------
