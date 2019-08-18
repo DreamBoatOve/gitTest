@@ -17,8 +17,15 @@
 -------------------------------------------------------
 -------------------------------------------------------
 -------------------------------------------------------
+just personal interest, u can ignore this
 -------------------------------------------------------
+Last time, I summarized the catgories of material properties, chemical (corrosion), mechanical (structural and tribology)
+According to the titles of section 3.1.*, I suggest that we just use Plan 1: corrosion, mechanical (structural and tribology); Plan 2: corrosion, structural, and tribology.
+Because there is only "corrosion" beneath "chemical", why do not directly use "corrosion"?
 -------------------------------------------------------
+Unsupervised anomaly detection: both normal and anomalous samples exist in the dataset.   ****  
+Model identifies normal or anomaly instances by analyzing the characters of clusters.
+The models identify normal or anomaly instances by analyzing the characters of clusters.
 -------------------------------------------------------
 71-
 -------------------------------------------------------
