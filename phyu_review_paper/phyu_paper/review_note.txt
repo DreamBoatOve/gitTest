@@ -1,0 +1,37 @@
+-------------------------------------------------
+-------------------------------------------------
+3
+	phase1
+		materials related fields
+		materials failures might occur
+		predicting corrosion in different environments
+	phase2
+	3.1 
+		a corrosion
+-------------------------------------------------
+1-
+	In Section 2.2: 
+		i think that we should introduce neuron first and then the basic of NN
+2-
+	Table 2 (25 examples in total, where the others??): 
+		the content arranged in what order? or group by what?
+		The input like sulfur dioxide, chloride, time of witness can be replaced by certain expression SO2, Cl-, TOW, 
+		NN type can be replaced by certain mark
+			multilayer perceptron/backpropagation Neural Network -- > MLP
+			radial basis function neural network ---> RBF
+-------------------------------------------------
+金属材料性能
+	工艺性能
+		铸造性
+		锻造性
+		深冲性
+		弯曲性
+		。。。
+	使用性能
+		力学性能
+		抗腐蚀性能（化学性能）
+		电磁性能
+		耐热性能
+		。。。
+-------------------------------------------------
+Corrosion is the deterioration and loss of a material and its critical properties due to chemical, electrochemical and other reactions of the exposed material surface with the surrounding environment.
